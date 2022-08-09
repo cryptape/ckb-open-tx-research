@@ -1,0 +1,10 @@
+{
+  "homepage": "https://cryptape.github.io/ckb-open-tx-research/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cryptape/ckb-open-tx-research.git"
+  },
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.106.0"
+  }
+}
