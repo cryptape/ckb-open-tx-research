@@ -1,6 +1,6 @@
 # CKB Learn
 
-This is a documentation site for Nervos [CKB](https://github.com/nervosnetwork/ckb).
+This is a documentation site for Nervos [CKB](https://github.com/nervosnetwork/ckb) Open Tx.
 
 ## Contribute
 
