@@ -1,0 +1,17 @@
+{
+  "roots": [
+    {
+      "key": "root",
+      "title": "CKB Open Tx Research",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "CKB Learn",
+      "navExclude": false,
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "root": null
+  }
+}
